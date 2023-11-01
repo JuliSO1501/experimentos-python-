@@ -1,0 +1,2 @@
+# experimentos-python-
+ primeiros códigos
